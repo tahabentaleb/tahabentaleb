@@ -180,7 +180,7 @@ flowchart LR
 | Relational modeling, SQL, PL/SQL | ✅ Done |
 | ETL with Python and pandas | ✅ Done |
 | Flask apps and Chrome extension | ✅ Done |
-| Airflow | 🔄 In progress |
+| Airflow | ⬜ Next |
 | Spark, Kafka, dbt, Docker | ⬜ Next |
 | Batch + streaming capstone | ⬜ Goal |
 
