@@ -8,6 +8,10 @@
 
 I build data systems — not just with tools, but with the concepts behind them: data modeling, relational design, ETL pipelines, and how data moves from source to insight.
 
+## GitHub metrics
+
+![Metrics](github-metrics.svg)
+
 ## Core strengths
 
 - **Databases** — relational modeling and normalization; advanced SQL / PL-SQL (procedures, functions, triggers, cursors) on Oracle
