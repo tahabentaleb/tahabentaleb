@@ -22,6 +22,8 @@ jobs:
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           config_timezone: Africa/Casablanca
+          # Animated SVG (elements fade/slide in, like the reference)
+          config_animations: yes
           # Isometric contributions calendar + current streak
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -39,3 +41,7 @@ jobs:
           # Mastered technologies and topics icons
           plugin_topics: yes
           plugin_topics_limit: 24
+          # PageSpeed Insights scores (audits the portfolio page;
+          # swap in a personal domain later if you get one)
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: https://muse.ai/s/taha-s-portfolio-jxt6ta9xlpxf2xr
