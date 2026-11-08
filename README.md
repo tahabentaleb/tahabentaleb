@@ -1,4 +1,6 @@
-![Starry Night](./banner.jpg)
+<p align="center">
+  <img src="./banner.jpg" alt="Starry Night" width="100%" />
+</p>
 
 <div align="center">
 
